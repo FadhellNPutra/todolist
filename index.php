@@ -27,7 +27,7 @@
         <div class="container">
             <aside>
                 <ul class="menu">
-                    <li> <a href="?hal=dashboard">Dashboard</a></li>
+                    <!-- <li> <a href="?hal=dashboard">Dashboard</a></li> -->
                     <li> <a href="?hal=tambah_kegiatan" class="aktif">Tambah Kegiatan</a> </li>
                     <li> <a href="?hal=kegiatan_soon">Kegiatan mendatang</a> </li>
                     <li> <a href="?hal=kegiatan_selesai">Kegiatan Selesai</a> </li>
